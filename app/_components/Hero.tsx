@@ -131,7 +131,7 @@ export default function Hero() {
               className="inline-flex items-center gap-3 bg-transparent border-2 border-primary-500 text-primary-500 hover:bg-primary-500/10 font-bold text-lg px-8 py-4 rounded-full transition-all duration-300 hover:scale-105"
             >
               <FaPlay className="text-lg" />
-              <span>Veja os Modelos</span>
+              <span>Veja Exemplos Reais</span>
             </button>
           </motion.div>
 
