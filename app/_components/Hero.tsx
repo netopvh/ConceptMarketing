@@ -126,12 +126,12 @@ export default function Hero() {
 
             <button
               onClick={() => {
-                document.getElementById("how-it-works")?.scrollIntoView({ behavior: "smooth" });
+                document.getElementById("video-showcase")?.scrollIntoView({ behavior: "smooth" });
               }}
               className="inline-flex items-center gap-3 bg-transparent border-2 border-primary-500 text-primary-500 hover:bg-primary-500/10 font-bold text-lg px-8 py-4 rounded-full transition-all duration-300 hover:scale-105"
             >
               <FaPlay className="text-lg" />
-              <span>Ver Como Funciona</span>
+              <span>Veja os Modelos</span>
             </button>
           </motion.div>
 

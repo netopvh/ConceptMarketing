@@ -74,7 +74,7 @@ export default function VideoShowcase() {
   }, [emblaApi, onSelect]);
 
   return (
-    <section ref={ref} className="py-20 md:py-32 relative overflow-hidden">
+    <section id="video-showcase" ref={ref} className="py-20 md:py-32 relative overflow-hidden">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-dark-500 via-dark-400 to-dark-500"></div>
 

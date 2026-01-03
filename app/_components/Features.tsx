@@ -6,9 +6,6 @@ import { useRef } from "react";
 import {
   FaBrain,
   FaPalette,
-  FaLanguage,
-  FaVideo,
-  FaMobileAlt,
   FaChartBar,
 } from "react-icons/fa";
 
@@ -26,28 +23,10 @@ const features = [
     color: "from-primary-500 to-primary-700",
   },
   {
-    icon: FaLanguage,
-    title: "Múltiplos Idiomas",
-    description: "Crie conteúdo em diversos idiomas para alcançar público global",
-    color: "from-primary-400 to-primary-600",
-  },
-  {
-    icon: FaVideo,
-    title: "Vários Formatos",
-    description: "Adapte para Instagram, YouTube, TikTok, LinkedIn e mais",
-    color: "from-primary-500 to-primary-700",
-  },
-  {
-    icon: FaMobileAlt,
-    title: "Otimizado Mobile",
-    description: "Vídeos perfeitos para consumo em qualquer dispositivo",
-    color: "from-primary-400 to-primary-600",
-  },
-  {
     icon: FaChartBar,
     title: "Analytics Integrado",
     description: "Acompanhe performance e otimize seus resultados",
-    color: "from-primary-500 to-primary-700",
+    color: "from-primary-400 to-primary-600",
   },
 ];
 

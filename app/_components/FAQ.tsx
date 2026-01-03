@@ -37,11 +37,6 @@ const faqs = [
       "Os valores variam conforme complexidade, duração e recursos necessários. Entre em contato via WhatsApp para receber um orçamento personalizado para seu projeto. Garantimos o melhor custo-benefício do mercado!",
   },
   {
-    question: "Vocês fornecem a música de fundo?",
-    answer:
-      "Sim! Temos acesso a uma biblioteca com milhares de músicas livres de direitos autorais. Você também pode sugerir o estilo musical que prefere ou fornecer sua própria trilha.",
-  },
-  {
     question: "Posso usar os vídeos comercialmente?",
     answer:
       "Absolutamente! Todos os vídeos criados são 100% seus e podem ser usados livremente em suas campanhas, redes sociais, site, anúncios e qualquer outro propósito comercial.",
