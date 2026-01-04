@@ -10,26 +10,62 @@ const videos = [
   {
     id: 1,
     src: "/videos/theme1.mp4",
-    title: "Vídeo Exemplo 1",
+    title: "Exemplo 1",
     description: "Vídeo profissional criado com IA",
   },
   {
     id: 2,
     src: "/videos/theme2.mp4",
-    title: "Vídeo Exemplo 2",
+    title: "Exemplo 2",
     description: "Marketing digital automatizado",
   },
   {
     id: 3,
     src: "/videos/theme3.mp4",
-    title: "Vídeo Exemplo 3",
-    description: "Conteúdo personalizado",
+    title: "Exemplo 3",
+    description: "Conteúdo personalizado e impactante",
   },
   {
     id: 4,
     src: "/videos/theme4.mp4",
-    title: "Vídeo Exemplo 4",
-    description: "Resultados incríveis",
+    title: "Exemplo 4",
+    description: "Resultados incríveis garantidos",
+  },
+  {
+    id: 5,
+    src: "/videos/theme5.mp4",
+    title: "Exemplo 5",
+    description: "Alta qualidade e conversão",
+  },
+  {
+    id: 6,
+    src: "/videos/theme6.mp4",
+    title: "Exemplo 6",
+    description: "Engagement nas redes sociais",
+  },
+  {
+    id: 7,
+    src: "/videos/theme7.mp4",
+    title: "Exemplo 7",
+    description: "Criatividade e inovação",
+  },
+  {
+    id: 8,
+    src: "/videos/theme8.mp4",
+    title: "Exemplo 8",
+    description: "Narrativa envolvente",
+  },
+  {
+    id: 9,
+    src: "/videos/theme9.mp4",
+    title: "Exemplo 9",
+    description: "Visual moderno e atrativo",
+  },
+  {
+    id: 10,
+    src: "/videos/theme10.mp4",
+    title: "Exemplo 10",
+    description: "Perfeito para seu negócio",
   },
 ];
 
