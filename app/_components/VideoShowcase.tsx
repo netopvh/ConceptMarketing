@@ -67,6 +67,12 @@ const videos = [
     title: "Exemplo 10",
     description: "Perfeito para seu negócio",
   },
+  {
+    id: 11,
+    src: "/videos/theme11.mp4",
+    title: "Exemplo 11",
+    description: "Impacto máximo com IA sob medida",
+  },
 ];
 
 export default function VideoShowcase() {

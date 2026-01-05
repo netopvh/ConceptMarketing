@@ -376,3 +376,4 @@ border border-primary-500/20
 Este mapa visual te ajuda a entender exatamente onde cada elemento está posicionado e como funciona! 🎯
 
 
+
