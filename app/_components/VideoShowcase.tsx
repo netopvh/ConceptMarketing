@@ -73,6 +73,66 @@ const videos = [
     title: "Exemplo 11",
     description: "Impacto máximo com IA sob medida",
   },
+  {
+    id: 12,
+    src: "/videos/theme12.mp4",
+    title: "Exemplo 12",
+    description: "Storytelling envolvente e direto ao ponto",
+  },
+  {
+    id: 13,
+    src: "/videos/theme13.mp4",
+    title: "Exemplo 13",
+    description: "Chamadas para ação que convertem",
+  },
+  {
+    id: 14,
+    src: "/videos/theme14.mp4",
+    title: "Exemplo 14",
+    description: "Dinâmica perfeita para redes sociais",
+  },
+  {
+    id: 15,
+    src: "/videos/theme15.mp4",
+    title: "Exemplo 15",
+    description: "Visual premium com foco em marca",
+  },
+  {
+    id: 16,
+    src: "/videos/theme16.mp4",
+    title: "Exemplo 16",
+    description: "Apresentação de produto impactante",
+  },
+  {
+    id: 17,
+    src: "/videos/theme17.mp4",
+    title: "Exemplo 17",
+    description: "Conteúdo vertical pronto para reels",
+  },
+  {
+    id: 18,
+    src: "/videos/theme18.mp4",
+    title: "Exemplo 18",
+    description: "Edição ágil com ritmo moderno",
+  },
+  {
+    id: 19,
+    src: "/videos/theme19.mp4",
+    title: "Exemplo 19",
+    description: "Destaque para benefícios em segundos",
+  },
+  {
+    id: 20,
+    src: "/videos/theme20.mp4",
+    title: "Exemplo 20",
+    description: "Formato híbrido para ads e orgânico",
+  },
+  {
+    id: 21,
+    src: "/videos/theme21.mp4",
+    title: "Exemplo 21",
+    description: "Versatilidade para múltiplos canais",
+  },
 ];
 
 export default function VideoShowcase() {
